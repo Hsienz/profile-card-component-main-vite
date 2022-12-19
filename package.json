@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hsienz.github.io/profile-card-component-main",
+  "homepage": "https://hsienz.github.io/profile-card-component-main/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -14,7 +14,8 @@
   "dependencies": {
     "gh-pages": "^4.0.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
@@ -26,4 +27,3 @@
     "vite": "^4.0.0"
   }
 }
-

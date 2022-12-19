@@ -1,3 +1,4 @@
+import victorImg from './assets/image-victor.jpg'
 const Data = (props) => {
 	return (
 		<div className="text-center">
@@ -15,7 +16,7 @@ const Card = () => {
 		>
 			<img
 				className="w-32 rounded-full border-white border-[5px] border-solid"
-				src="/src/assets/image-victor.jpg"
+				src={victorImg}
 				alt=""
 			/>
 
